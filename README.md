@@ -2,6 +2,10 @@
 
 - This library is similar to requests, but in a single file version.
 
+## Installation
+- `pip install simreq`
+
+
 ## Example tests
 
 ```py
@@ -9,9 +13,6 @@ import simreq
 c = simreq.get('https://api.jiroawesome.tech')
 print(c.status_code)
 ```
-
-### Note
-- You must download or copy the file (simreq.py) first before importing it.
 
 
 ## Special Note

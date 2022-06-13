@@ -3,7 +3,9 @@
 - This library is similar to requests, but in a single file version.
 
 ## Installation
-- `pip install simreq`
+- `git clone https://github.com/jiroawesome/simreq.py`
+- `cd simreq.py`
+- Then create your `main.py` in that directory.
 
 
 ## Example tests

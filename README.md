@@ -1,17 +1,14 @@
-# simreq.py
+# simplereq
 
 - This library is similar to requests, but in a single file version.
 
 ## Installation
-- `git clone https://github.com/jiroawesome/simreq.py`
-- `cd simreq.py`
-- Then create your `main.py` in that directory.
-
+- `pip install simplereq`
 
 ## Example tests
 
 ```py
-import simreq
+import simplereq as simreq
 c = simreq.get('https://api.jiroawesome.tech')
 print(c.status_code)
 ```

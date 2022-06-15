@@ -3,7 +3,7 @@
 - This library is similar to requests, but in a single file version.
 
 ## Installation
-- `pip install simplereq`
+- `python3 -m pip install simplereq`
 
 ## Example tests
 
@@ -16,3 +16,8 @@ print(c.status_code)
 
 ## Special Note
 - This project is made for developers, so use it at your own will.
+
+
+## Also Note
+- This library needs `Python 3`.
+- Don't read the README.md on pypi lmao, it sucks.

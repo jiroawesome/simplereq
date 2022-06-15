@@ -12,6 +12,7 @@ import simplereq as simreq
 c = simreq.get('https://api.jiroawesome.tech')
 print(c.status_code)
 ```
+- `python3 test.py`
 
 
 ## Special Note

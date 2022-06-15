@@ -15,10 +15,7 @@ print(c.status_code)
 - `python3 test.py`
 
 
-## Special Note
-- This project is made for developers, so use it at your own will.
 
-
-## Also Note
+## Note
 - This library needs `Python 3`.
 - Don't read the README.md on pypi lmao, it sucks.
